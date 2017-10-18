@@ -2,6 +2,6 @@
 # frozen_string_literal: true
 
 require "rubygems"
-require "archimate"
+require "archimate-diff"
 
 Archimate::Cli::DiffSummary.diff(ARGV[0], ARGV[1])
