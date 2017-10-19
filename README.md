@@ -1,6 +1,6 @@
 # Archimate
 
-[![Build Status](https://travis-ci.org/mmorga/archi-tools-rb.svg?branch=master)](https://travis-ci.org/mmorga/archi-tools-rb)
+[![Build Status](https://travis-ci.org/mmorga/archimate-diff.svg?branch=master)](https://travis-ci.org/mmorga/archimate-diff)
 
 I also have included some Ruby code that plays with the `.archimate` file format produces by [Archi](http://archimatetool.com/) to produce useful output.
 
@@ -91,4 +91,4 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/mmorga/archi-tools-rb.
+Bug reports and pull requests are welcome on GitHub at https://github.com/mmorga/archimate-diff.
